@@ -1,0 +1,8 @@
+function centroid = find_centroid( data_points )
+%Find the centroid of the set of 
+%   Detailed explanation goes here
+centroid=mean(data_points,2);
+
+
+end
+
